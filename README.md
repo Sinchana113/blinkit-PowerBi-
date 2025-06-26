@@ -83,4 +83,4 @@ Supermarket Type3
 ⭐ Customer Sentiment: Average rating of 3.9 across types indicates a need for targeted service improvements
 
 6. Screenshot
-   Example:
+   Example:https://github.com/Sinchana113/blinkit-PowerBi-/blob/main/blinkit%20dashboard.png
